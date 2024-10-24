@@ -1,4 +1,4 @@
-# Skrip TCP Dial HTTPS
+# Script TCP Dial HTTPS
 
 ## Deskripsi Proyek
 Script ini dirancang untuk melakukan TCP Dial ke sebuah web yang menggunakan HTTPS. Setelah melakukan koneksi, script ini akan mencetak informasi berikut:
